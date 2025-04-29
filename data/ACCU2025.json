@@ -1,155 +1,54 @@
 [
-    {
-        "begin": "2025-04-28T08:00:00-06:00", 
-        "duration": 50,
-        "name": "Conference Welcome & LiaW"
-    }, 
-    {
-        "begin": "2025-04-28T09:00:00-06:00", 
-        "duration": 90,
-        "name": "opening plenary"
-    }, 
-    {
-        "begin": "2025-04-28T11:00:00-06:00", 
-        "duration": 90,
-        "name": "Monday second session"
-    }, 
-    {
-        "begin": "2025-04-28T14:30:00-06:00", 
-        "duration": 90,
-        "name": "Monday third session"
-    }, 
-    {
-        "begin": "2025-04-28T16:30:00-06:00", 
-        "duration": 90,
-        "name": "Monday fourth session"
-    }, 
+   {
+       "begin": "2025-04-03T09:00:00+01:00",
+       "duration": 90,
+       "name": "Thursday keynote"
+   },
+   {
+       "begin": "2025-04-03T11:00:00+01:00",
+       "duration": 90,
+       "name": "Thursday first breakout"
+   },
+   {
+       "begin": "2025-04-03T14:00:00+01:00",
+       "duration": 90,
+       "name": "Thursday second breakout"
+   },
+   {
+       "begin": "2025-04-03T16:00:00+01:00",
+       "duration": 90,
+       "name": "Thursday third breakout"
+   },
+   {
+       "begin": "2025-04-03T17:45:00+01:00",
+       "duration": 60,
+       "name": "Thursday lightning talks"
+   },
 
-    {
-        "begin": "2025-04-29T08:00:00-06:00", 
-        "duration": 50,
-        "name": "Tuesday LiaW"
-    }, 
-    {
-        "begin": "2025-04-29T09:00:00-06:00", 
-        "duration": 90,
-        "name": "Tuesday first session"
-    }, 
-    {
-        "begin": "2025-04-29T11:00:00-06:00", 
-        "duration": 90,
-        "name": "Tuesday second session"
-    },
-    {
-        "begin": "2025-04-29T14:30:00-06:00", 
-        "duration": 90,
-        "name": "Tuesday third session"
-    }, 
-    {
-        "begin": "2025-04-29T16:30:00-06:00", 
-        "duration": 90,
-        "name": "Tuesday fourth session"
-    },
-    {
-        "begin": "2025-04-29T20:00:00-06:00", 
-        "duration": 90,
-        "name": "Lightning Talks"
-    },
+   {
+       "begin": "2025-04-04T09:30:00+01:00",
+       "duration": 90,
+       "name": "Friday first breakout"
+   },
+   {
+       "begin": "2025-04-04T11:30:00+01:00",
+       "duration": 90,
+       "name": "Friday second breakout"
+   },
+   {
+       "begin": "2025-04-04T14:30:00+01:00",
+       "duration": 90,
+       "name": "Friday third breakout"
+   },
+   {
+       "begin": "2025-04-04T16:30:00+01:00",
+       "duration": 90,
+       "name": "Friday keynote"
+   },
+   {
+       "begin": "2025-04-04T17:45:00+01:00",
+       "duration": 60,
+       "name": "Friday lightning talks"
+   }
 
-    {
-        "begin": "2025-04-30T08:00:00-06:00", 
-        "duration": 50,
-        "name": "Wednesday LiaW"
-    }, 
-    {
-        "begin": "2025-04-30T09:00:00-06:00", 
-        "duration": 90,
-        "name": "Wednesday first session"
-    }, 
-    {
-        "begin": "2025-04-30T11:00:00-06:00", 
-        "duration": 90,
-        "name": "Wednesday second session"
-    }, 
-    {
-        "begin": "2025-04-30T14:30:00-06:00", 
-        "duration": 90,
-        "name": "Wednesday third session full session",
-        "tracks": [
-           "full"
-       ]
-    }, 
-    {
-        "begin": "2025-04-30T14:30:00-06:00", 
-        "duration": 45,
-        "name": "Wednesday third session block, first half session",
-        "tracks": [
-           "half"
-       ]
-    }, 
-    {
-        "begin": "2025-04-30T15:15:00-06:00", 
-        "duration": 45,
-        "name": "Wednesday third session block, second half session",
-        "tracks": [
-           "half"
-       ]
-    }, 
-    {
-        "begin": "2025-04-30T16:30:00-06:00", 
-        "duration": 90,
-        "name": "Wednesday fourth session full session"
-    }, 
-    {
-        "begin": "2025-04-30T20:00:00-06:00", 
-        "duration": 90,
-        "name": "Wednesday lightning talks"
-    },
-
-    {
-        "begin": "2025-05-01T08:00:00-06:00", 
-        "duration": 50,
-        "name": "Thursday LiaW"
-    }, 
-    {
-        "begin": "2025-05-01T09:00:00-06:00", 
-        "duration": 90,
-        "name": "Thursday first session"
-    }, 
-    {
-        "begin": "2025-05-01T11:00:00-06:00", 
-        "duration": 90,
-        "name": "Thursday second session"
-    },
-    {
-        "begin": "2025-05-01T14:30:00-06:00", 
-        "duration": 90,
-        "name": "Thursday third session"
-    }, 
-    {
-        "begin": "2025-05-01T16:30:00-06:00", 
-        "duration": 90,
-        "name": "Thursday fourth session"
-    },
-
-    {
-        "begin": "2025-05-02T08:00:00-06:00", 
-        "duration": 50,
-        "name": "Friday LiaW"
-    }, 
-    {
-        "begin": "2025-05-02T09:00:00-06:00", 
-        "duration": 90,
-        "name": "Friday first session"
-    }, 
-    {
-        "begin": "2025-05-02T11:00:00-06:00", 
-        "duration": 90,
-        "name": "closing plenary"
-    },
-    {
-        "begin": "2025-05-02T14:30:00-06:00", 
-        "duration": 90,
-        "name": "Future of C++"
-    }
 ]
