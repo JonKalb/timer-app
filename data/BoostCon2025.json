@@ -1,0 +1,92 @@
+[
+   {
+       "begin": "2025-04-02T22:28:00+01:00",
+       "duration": 5,
+       "name": "test"
+   },
+
+   {
+       "begin": "2025-04-02T22:40:00+01:00",
+       "duration": 7,
+       "name": "test"
+   },
+
+   {
+       "begin": "2025-04-02T22:50:00+01:00",
+       "duration": 9,
+       "name": "test"
+   },
+
+   {
+       "begin": "2025-04-02T23:04:00+01:00",
+       "duration": 6,
+       "name": "test"
+   },
+
+   {
+       "begin": "2025-04-02T23:14:00+01:00",
+       "duration": 4,
+       "name": "test"
+   },
+
+   {
+       "begin": "2025-04-02T22:22:00+01:00",
+       "duration": 11,
+       "name": "test"
+   },
+
+   {
+       "begin": "2025-04-03T09:00:00+01:00",
+       "duration": 90,
+       "name": "Thursday keynote"
+   },
+   {
+       "begin": "2025-04-03T11:00:00+01:00",
+       "duration": 90,
+       "name": "Thursday first breakout"
+   },
+   {
+       "begin": "2025-04-03T14:00:00+01:00",
+       "duration": 90,
+       "name": "Thursday second breakout"
+   },
+   {
+       "begin": "2025-04-03T16:00:00+01:00",
+       "duration": 90,
+       "name": "Thursday third breakout"
+   },
+   {
+       "begin": "2025-04-03T17:45:00+01:00",
+       "duration": 60,
+       "name": "Thursday lightning talks"
+   },
+
+   {
+       "begin": "2025-04-04T09:30:00+01:00",
+       "duration": 90,
+       "name": "Friday first breakout"
+   },
+   {
+       "begin": "2025-04-04T11:30:00+01:00",
+       "duration": 90,
+       "name": "Friday second breakout"
+   },
+   {
+       "begin": "2025-04-04T14:30:00+01:00",
+       "duration": 90,
+       "name": "Friday third breakout"
+   },
+   {
+       "begin": "2025-04-04T16:30:00+01:00",
+       "duration": 90,
+       "name": "Friday keynote"
+   },
+   {
+       "begin": "2025-04-04T17:45:00+01:00",
+       "duration": 60,
+       "name": "Friday lightning talks"
+   }
+
+]
+
+
